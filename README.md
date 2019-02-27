@@ -4,16 +4,16 @@ Using Spam detector using [Spam Ham dataset](https://archive.ics.uci.edu/ml/data
 
 ## Feature engineering
 
- - Length of text
+### Length of text
 ![Length of text](images/length.png)
 
- - Capital Words
+### Capital Words
  ![Capital Words](images/capital_words.png)
 
- - Links in SMS
+### Links in SMS
  ![Links in SMS](images/links.png)
 
- - Punctuation in SMS
+### Punctuation in SMS
  ![Punctuation in SMS](images/punctuation.png)
 
 ## Results
